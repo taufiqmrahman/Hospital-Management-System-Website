@@ -1,4 +1,5 @@
 Hospital Management System 🏥
+
 A full-stack application designed to digitize and manage the core functionalities of a hospital. This system provides an intuitive interface for staff to handle patient information, schedule appointments, and manage billing efficiently.
 
 The backend is powered by Java, ensuring robustness and scalability, while the frontend is built with TypeScript, providing type safety and a modern user experience.
